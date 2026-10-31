@@ -1,0 +1,9 @@
+[package]
+name = "lumra-web"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["mytheeramet3dev-x"]
+license = "MIT"
+description = "Modern Web Component & Layout Framework for Typst-native Websites"
+repository = "https://github.com/mytheeramet3dev-x/Lumra-Web"
+keywords = ["web", "framework", "components", "responsive", "lumra"]
